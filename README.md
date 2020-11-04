@@ -7,7 +7,7 @@ https://forms.gle/pUgVZTN2791JT7ei9
 __________________________________________________________________________________________________
 # Description
 
-ADELE is a dataset of vibration in a clamped beam that exhibits nonlinear behavior even in the healthy condition, and it is exposed to a type of damage that causes the structure to display a nonlinear behavior with a different nature than the initial one. Besides, the uncertainties associated with data variation are taken into account in the application of the methodology. 
+ADELE is a dataset of vibration in a clamped beam that exhibits nonlinear behavior even in the healthy condition, and it is exposed to a type of damage that causes the structure to display a nonlinear behavior with a different nature than the initial one. Besides, the uncertainties associated with data variation are taken into account in the application of the methodology. This experiment was conducted by the SHM lab at the University of California San Diego with collaboration at SHM Lab UNESP/Ilha Solteira.
 
 The experimental setup used is presented below. The structure monitored is formed by a clamped-free beam constructed by gluing four thin beams of Lexan together, 2.4 mm x 24 mm x 240 mm each one, to emulate a damage propagation that is described further on. Two steel masses are affixed at the free boundary and interact with a magnet, generating a nonlinear behavior in the system response, even in the reference condition due to added magnetic potential.
 
