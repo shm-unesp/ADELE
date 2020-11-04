@@ -7,7 +7,15 @@ ________________________________________________________________________________
 # Description
 
 
+<img src="setup.jpg " width="60%">
 
+
+ <li>Electrodynamic Transducer Labworks Inc. (ET-132) </li>
+ <li>Amplifier MB Dynamics (SL500VCF) </li>
+ <li>Load cell PCB PIEZOTRONICS (208C02) </li>
+ <li>Accelerometer PCB PIEZOTRONICS (352C22) </li>
+ 
+The electrodynamic transducer is employed to excite the structure with different signals and consider two inputs (low—1 V root mean square (RMS) and high—6 V RMS). The accelerometer measures the output data positioned close to the beam's free extremity because the authors are only interested in the region of the structure's first mode shape. The input signal analyzed is the voltage signal applied in the electrodynamic transducer. As a single-input/single-output (SISO) model is considered, this pair of signals is enough to identify the Volterra kernels and monitor the structural health. All the acquisition parameters, signals considered, and equipment used were the same in the experiments performed, considering the different structural conditions.
 
 __________________________________________________________________________________________________
 # Authors
