@@ -6,8 +6,7 @@ To download the vibration dataset of the benchmark ADELE, please fill the form:
 __________________________________________________________________________________________________
 # Description
 
-The experimental setup used is presented in below. The structure monitored is formed by a clamped-free beam, that is constructed by gluing four thin beams of
-Lexan together, 2.4 mm x 24 mm x 240 mm each one, with the intention of emulating a damage propagation that is described further on. At the free boundary, two steel masses are affixed and interact with a magnet, generating a nonlinear behavior in the system response, even in the reference condition due to added magnetic potential.
+The experimental setup used is presented below. The structure monitored is formed by a clamped-free beam constructed by gluing four thin beams of Lexan together, 2.4 mm x 24 mm x 240 mm each one, to emulate a damage propagation that is described further on. Two steel masses are affixed at the free boundary and interact with a magnet, generating a nonlinear behavior in the system response, even in the reference condition due to added magnetic potential.
 
 <img src="setup.jpg " width="80%">
 
@@ -29,7 +28,7 @@ The damage imposed on the structure aims to simulate a breathing crack present i
  <li> Damage I: beam constructed with three intact and one cut beam (see Figure 4(a) and (b)) </li>
  <li> Damage II: beam constructed with two intact and two cut beams (see Figure 4(a) and (b)) </li><br>
  
-The cut in the beams is positioned close to the excitation point. This spot was chosen to obtain the required nonlinear behavior to test the performance of the algorithm. The damage condition might be judged severely, but the position and excitation combined were defined to generate a condition that is difficult to detect, mainly in the condition damage I. Details about the structural conditions considered below.
+The cut in the beams is positioned close to the excitation point. This spot was chosen to obtain the required nonlinear behavior to test the performance of the algorithm. The damage condition might be judged severely, but the position and excitation combined were defined to generate a difficult condition to detect, mainly in the condition damage I. Details about the structural conditions are considered below.
 
 <img src="damage.jpg " width="80%">
 
