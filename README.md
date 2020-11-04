@@ -47,7 +47,7 @@ The data are still available for non-commercial research under the following ter
 
 This dataset was used in these publications:
 
-<li>Villani LG, da Silva S, Cunha A, Todd MD. On the detection of a nonlinear damage in an uncertain nonlinear beam using stochastic Volterra series. Structural Health Monitoring. 2020;19(4):1137-1150. doi:10.1177/1475921719876086</li><br>
+<li>Villani LG, da Silva S, Cunha A, Todd MD. On the detection of a nonlinear damage in an uncertain nonlinear beam using stochastic Volterra series. Structural Health Monitoring. 2020;19(4):1137-1150. https://doi.org/10.1177/1475921719876086</li><br>
 
 <li>Villani LG. Robust damage detection in uncertain nonlinear systems. PhD Thesis in Mechanical Engineering; São Paulo State University, Ilha Solteira/SP, Brazil, Dec. 2019, http://hdl.handle.net/11449/191200 </li><br>
 
