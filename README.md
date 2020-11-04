@@ -20,7 +20,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________
 # How to cite
 
-The data are still available for non-commercial research under the following terms: (i) the Structural Health Monitoring (SHM) laboratory in the Department of Structural Engineering at the University of California San Diego and the SHM Lab at UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the SHM Lab at UCSD/San Diego and SHM Lab at UNESP/Ilha Solteira should be cited; (iii) this benchmark should be cited as ADELE.
+The data are still available for non-commercial research under the following terms: (i) the Structural Health Monitoring (SHM) laboratory in the Department of Structural Engineering at the University of California San Diego and the SHM Lab at UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the SHM Lab at UCSD and SHM Lab at UNESP/Ilha Solteira should be cited; (iii) this benchmark should be cited as ADELE.
 
 This dataset was used in this paper:
 
