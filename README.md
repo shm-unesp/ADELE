@@ -30,7 +30,7 @@ This dataset was used in this paper:
 
 If you are using a LaTeX Editor, you can cite the papers above using these BibTeX citations:
 
-``
+```
 @article{doi:10.1177/1475921719876086,
 author = {Luis GG Villani and Samuel da Silva and Americo Cunha and Michael D Todd},
 title ={On the detection of a nonlinear damage in an uncertain nonlinear beam using stochastic Volterra series},
@@ -52,7 +52,8 @@ eprint = { https://doi.org/10.1177/1475921719876086},
       note= {Ph.D. in Mechanical Engineering}
   url = " http://hdl.handle.net/11449/191200",
 }
-``
+
+```
 __________________________________________________________________________________________________
 # License
 
