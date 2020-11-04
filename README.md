@@ -6,9 +6,10 @@ To download the vibration dataset of the benchmark ADELE, please fill the form:
 __________________________________________________________________________________________________
 # Description
 
+The experimental setup used is presented in below. The structure monitored is formed by a clamped-free beam, that is constructed by gluing four thin beams of
+Lexan together, 2.4 mm x 24 mm x 240 mm each one, with the intention of emulating a damage propagation that is described further on. At the free boundary, two steel masses are affixed and interact with a magnet, generating a nonlinear behavior in the system response, even in the reference condition due to added magnetic potential.
 
-<img src="setup.jpg " width="60%">
-
+<img src="setup.jpg " width="80%">
 
 The setup includes the following:
 
@@ -20,6 +21,17 @@ The setup includes the following:
  <li>Accelerometer PCB PIEZOTRONICS (352C22) </li><br>
  
 The electrodynamic transducer is employed to excite the structure with different signals and consider two inputs (low—1 V root mean square (RMS) and high—6 V RMS). The accelerometer measures the output data positioned close to the beam's free extremity because the authors are only interested in the region of the structure's first mode shape. The input signal analyzed is the voltage signal applied in the electrodynamic transducer. As a single-input/single-output (SISO) model is considered, this pair of signals is enough to identify and monitor the structural health. All the acquisition parameters, signals considered, and equipment used were the same in the experiments performed, considering the different structural conditions.
+
+The damage imposed on the structure aims to simulate a breathing crack present in the system. In this sense, four different beams were built to be used in the application of the damage detection methodology:
+
+ <li> Training beam: beam constructed with four intact Lexan beams and used in the training phase of the algorithm </li>
+ <li> Test beam: beam constructed with four intact Lexan beams and used in the test phase of the algorithm </li>
+ <li> Damage I: beam constructed with three intact and one cut beam (see Figure 4(a) and (b)) </li>
+ <li> Damage II: beam constructed with two intact and two cut beams (see Figure 4(a) and (b)) </li><br>
+ 
+The cut in the beams is positioned close to the excitation point. This spot was chosen to obtain the required nonlinear behavior to test the performance of the algorithm. The damage condition might be judged severely, but the position and excitation combined were defined to generate a condition that is difficult to detect, mainly in the condition damage I. Details about the structural conditions considered below.
+
+<img src="damage.jpg " width="80%">
 
 __________________________________________________________________________________________________
 # Authors
