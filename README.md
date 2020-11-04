@@ -1,6 +1,7 @@
 # ADELE: nonlineAr Damage in a magnEto-eLastic bEam
 
-To download the data set of vibration of benchmark ADELE, please fill the form:
+To download the vibration dataset of the benchmark ADELE, please fill the form:
+
 
 __________________________________________________________________________________________________
 # Description
