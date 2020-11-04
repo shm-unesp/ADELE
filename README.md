@@ -28,8 +28,8 @@ The damage imposed on the structure aims to simulate a breathing crack present i
 
  <li> Training beam: beam constructed with four intact Lexan beams and used in the training phase of the algorithm </li>
  <li> Test beam: beam constructed with four intact Lexan beams and used in the test phase of the algorithm </li>
- <li> Damage I: beam constructed with three intact and one cut beam (see Figure 4(a) and (b)) </li>
- <li> Damage II: beam constructed with two intact and two cut beams (see Figure 4(a) and (b)) </li><br>
+ <li> Damage I: beam constructed with three intact and one cut beam </li>
+ <li> Damage II: beam constructed with two intact and two cut beams </li><br>
  
 The cut in the beams is positioned close to the excitation point. This spot was chosen to obtain the required nonlinear behavior to test the performance of the algorithm. The damage condition might be judged severely, but the position and excitation combined were defined to generate a difficult condition to detect, mainly in the condition damage I. Details about the structural conditions are considered below.
 
