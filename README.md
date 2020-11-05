@@ -11,7 +11,7 @@ ADELE is a dataset of vibration in a clamped beam that exhibits nonlinear behavi
 
 The experimental setup used is presented below. The structure monitored is formed by a clamped-free beam constructed by gluing four thin beams of Lexan together, 2.4 mm x 24 mm x 240 mm each one, to emulate a damage propagation that is described further on. Two steel masses are affixed at the free boundary and interact with a magnet, generating a nonlinear behavior in the system response, even in the reference condition due to added magnetic potential.
 
-<img src="setup.jpg " width="80%">
+<img src="setup1.jpg " width="80%">
 
 The setup includes the following:
 
@@ -34,6 +34,14 @@ The damage imposed on the structure aims to simulate a breathing crack present i
 The cut in the beams is positioned close to the excitation point. This spot was chosen to obtain the required nonlinear behavior to test the performance of the algorithm. The damage condition might be judged severely, but the position and excitation combined were defined to generate a difficult condition to detect, mainly in the condition damage I. Details about the structural conditions are considered below.
 
 <img src="damage.jpg " width="80%">
+
+The variables in each row of data in the files are described by:
+
+<img src="Table1.jpg " width="100%">
+
+Details about the available dataset are shown below:
+
+<img src="Table2.jpg " width="100%">
 
 __________________________________________________________________________________________________
 # Authors
