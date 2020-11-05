@@ -37,7 +37,7 @@ The cut in the beams is positioned close to the excitation point. This spot was 
 
 The variables in each row of data in the files are described by:
 
-<img src="Table1.jpg " width="100%">
+<img src="Table1.jpg " width="80%">
 
 Details about the available dataset are shown below:
 
